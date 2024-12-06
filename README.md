@@ -33,5 +33,6 @@ Enter the first number:
 Enter the second number:
 >> 3
 The result of subtracting 10 and 3 is: 7
-----------------------------------------------------------
-![code](https://github.com/user-attachments/assets/2ee803e3-b0aa-4b1f-b51e-d7aad5ab8731)
+```
+
+---![code](https://github.com/user-attachments/assets/5431af2d-a208-405d-8078-1cf56a10d449)
